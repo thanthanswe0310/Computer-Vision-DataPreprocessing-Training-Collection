@@ -1,2 +1,1 @@
-# Computer-Vision-Project
-This is my computer vision project.
+# Data Preprocessing and Training Data in Computer Vision (Yolo, SimpleHRNet, Darknet Docker, etc)
